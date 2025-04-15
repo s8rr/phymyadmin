@@ -23,7 +23,7 @@ sudo apt install php8.1-fpm php8.1-mysql
 ## 📅 1. Download phpMyAdmin
 
 - Download the latest version from the [official site](https://www.phpmyadmin.net)
-- Or use the provided folder: `phpMyAdmin-5.2.1-all-languages(2)`
+- Or use the provided folder: `phpMyAdmin-5.2.1-all-languages`
 
 ---
 
